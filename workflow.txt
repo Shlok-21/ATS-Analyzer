@@ -1,0 +1,5 @@
+1. Input field for the JD
+2. Upload field for Resume [PDF]
+3. PDF to image > OCR > Preprocess and pass to 
+    Google Gemini Pro
+4. Prompts to make the resume better
