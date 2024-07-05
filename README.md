@@ -1,4 +1,5 @@
-Check it out : ![https://ats-score-analyzer.streamlit.app/](ATS Score Analyzer)
+Check it out : [ATS Score Analyzer](https://ats-score-analyzer.streamlit.app/)
+
 
 ATS Score checker for your resume <br>
 Model used : Google Gemini Pro <br><br>
