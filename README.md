@@ -1,3 +1,5 @@
+Check it out : ![https://ats-score-analyzer.streamlit.app/](ATS Score Analyzer)
+
 ATS Score checker for your resume <br>
 Model used : Google Gemini Pro <br><br>
 ![streamlit-app-2024-07-02-19-07-92-ezgif com-video-to-gif-converter (1)](https://github.com/Shlok-21/ATS-Analyzer/assets/91182775/ac4f3f93-dc5a-4c17-80f8-9f495890a557)
