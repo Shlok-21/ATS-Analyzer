@@ -1,10 +1,14 @@
 Check it out : [ATS Score Analyzer](https://ats-score-analyzer.streamlit.app/)
 
 # ATS Analyzer - Resume Evaluation
+ATS Analyzer is a Streamlit application designed to help you improve your resume by identifying mistakes and evaluating how well it matches a given job description using an AI-powered Application Tracking System (ATS). <br><br>
 Model used : Google Gemini Pro <br><br>
 ![streamlit-app-2024-07-02-19-07-92-ezgif com-video-to-gif-converter (1)](https://github.com/Shlok-21/ATS-Analyzer/assets/91182775/ac4f3f93-dc5a-4c17-80f8-9f495890a557)
 
-ATS Analyzer is a Streamlit application designed to help you improve your resume by identifying mistakes and evaluating how well it matches a given job description using an AI-powered Application Tracking System (ATS).
+## Results
+- Observed a 17.12% increase in the overall ATS Score
+![image](https://github.com/user-attachments/assets/6d4b3efe-ece1-4387-a309-f4801fc54a2c)
+
 
 ## Key Features:
 
