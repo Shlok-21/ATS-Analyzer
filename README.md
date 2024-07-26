@@ -6,8 +6,8 @@ Model used : Google Gemini Pro <br><br>
 ![streamlit-app-2024-07-02-19-07-92-ezgif com-video-to-gif-converter (1)](https://github.com/Shlok-21/ATS-Analyzer/assets/91182775/ac4f3f93-dc5a-4c17-80f8-9f495890a557)
 
 ## Results
-- Observed a 17.12% increase in the overall ATS Score
-![image](https://github.com/user-attachments/assets/6d4b3efe-ece1-4387-a309-f4801fc54a2c)
+- Observed a 17.12% increase of the ATS Score on average. <br><br>
+![image](https://github.com/user-attachments/assets/31064d21-9f0d-4e06-9899-f16eed5696aa)
 
 
 ## Key Features:
